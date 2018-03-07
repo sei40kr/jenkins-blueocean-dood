@@ -1,0 +1,2 @@
+/var/jenkins_home/*
+!/var/jenkins_home/.gitkeep
