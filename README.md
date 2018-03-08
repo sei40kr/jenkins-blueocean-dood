@@ -1,6 +1,6 @@
-# jenkins-blueocean-dind
+# jenkins-blueocean-dood
 
-Jenkins container with BlueOcean and Docker agent.
+Jenkins with Docker out of Docker container.
 
 ## Usage
 
