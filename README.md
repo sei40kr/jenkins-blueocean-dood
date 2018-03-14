@@ -2,6 +2,10 @@
 
 Jenkins with Docker out of Docker container.
 
+## Warning
+
+This is my experimental image and not for production use.
+
 ## Usage
 
 ```sh
